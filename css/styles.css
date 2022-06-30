@@ -143,3 +143,6 @@ p {
  .foot-button{
    margin-right: 10px;
  }
+#footer p {
+  margin:0;
+}
